@@ -52,13 +52,6 @@ Online resume project created using web technologies.
 
 ---
 
-
-## 📊 GitHub Stats
-
-![Shashank's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shashanksingh-01&show_icons=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shashanksingh-01&layout=compact&theme=github_dark)
-
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Shashanksingh-01)
